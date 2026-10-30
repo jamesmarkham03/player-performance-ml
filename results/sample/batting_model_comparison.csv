@@ -1,0 +1,4 @@
+features,Baseline (average),Random Forest,XGBoost
+QAB% + C%,0.144,0.128,0.135
+QAB% + C% + LD%,0.144,0.123,0.131
+QAB% + C% + LD% + FB% + GB%,0.144,0.118,0.129

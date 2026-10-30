@@ -1,0 +1,6 @@
+features,Baseline (average),Random Forest,XGBoost
+<3% + S%,1.634,1.088,1.235
+<3% + S% + FPS%,1.634,1.048,1.06
+<3% + S% + FPS% + K/BB + K/BF,1.634,1.038,1.011
+<3% + S% + FPS% + BB/INN,1.634,0.967,0.936
+<3% + S% + FPS% + BB/INN + LD% + FB% + GB%,1.634,1.034,1.04

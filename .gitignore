@@ -1,0 +1,16 @@
+# Real GameChanger exports: real players (most are minors). Never commit.
+data/real/
+results/real/
+
+# Secrets and private notes
+.env
+.env.*
+CLAUDE.local.md
+
+# Python
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+
+# Office lock files
+~$*
